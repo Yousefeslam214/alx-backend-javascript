@@ -40,7 +40,7 @@ export default class HolbertonCourse {
   }
 
   /**
-   * Sets the length of this course (in months).
+   * Sets the length of this course (in months)
    */
   set length(value) {
     if (typeof value !== 'number') {
