@@ -18,7 +18,7 @@ export default class Pricing {
   }
 
   /**
-   * @returns {Currency}
+   * @returns {Currency}.
    */
   get currency() {
     return this._currency;
